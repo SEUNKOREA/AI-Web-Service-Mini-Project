@@ -1,0 +1,9 @@
+flask-cors==5.0.0
+jaraco.text==3.12.1
+langchain==0.2.16
+langchain-openai==0.1.23
+ordered-set==4.1.0
+pip-chill==1.0.3
+platformdirs==4.2.2
+python-dotenv==1.0.1
+tomli==2.0.1
